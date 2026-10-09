@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia House | Luxury Interior Design & Architecture",
+  "description": "Aurelia House creates refined residential interiors shaped by thoughtful architecture, natural materials, timeless design, and the way you live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
